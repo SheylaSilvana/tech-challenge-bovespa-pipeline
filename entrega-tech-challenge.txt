@@ -1,0 +1,5 @@
+Tech Challenge - Fase 2: Pipeline de Dados da Bovespa
+
+Repositorio GitHub: https://github.com/SheylaSilvana/tech-challenge-bovespa-pipeline
+
+Video demonstrativo: https://drive.google.com/file/d/16vQ9-vqH9GFWv6mtrbQU0Z1iyD3yw9ZM/view?usp=sharing
